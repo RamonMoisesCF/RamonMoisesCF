@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando com React no FrontEnd.
-- ⚡ Aprendendo PHP para em breve me tornar FullStack.
+- ⚡ Aprendendo PHP.
 
 ## Ferramentas e Tecnologias
 <div className="d-flex flex-row" align="center" dir="auto">
