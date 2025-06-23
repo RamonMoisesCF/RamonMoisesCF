@@ -1,8 +1,8 @@
 # Olá, me chamo Ramon Colim ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando com React no FrontEnd.
-- ⚡ Aprendendo PHP.
+- 🔭 Atualmente trabalhando com React no FrontEnd.
+- ⚡ Evoluindo com PHP.
 
 ## Ferramentas e Tecnologias
 <div className="d-flex flex-row" align="center" dir="auto">
